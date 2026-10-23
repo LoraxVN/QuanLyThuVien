@@ -13,6 +13,9 @@ public class BTT2 {
 
         // In kết quả ra màn hình
         System.out.println("Xin chào, " + ten + "!");
+        // code commit lần 2 
+        System.out.println("Nhap ngay sinh cua bạn theo định dạng dd/mm/yy:");
+        String birthday = scanner.nextLine();
 
         // Đóng scanner sau khi sử dụng
         scanner.close();
